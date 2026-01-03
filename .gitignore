@@ -1,0 +1,5 @@
+# Parquet files
+*.parquet
+
+# PyTorch models
+*.pt

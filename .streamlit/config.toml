@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+primaryColor="#f7e4eb"
+
+font = "Handlee:https://fonts.googleapis.com/css2?family=Handlee&display=swap"
+codeFont = "'Space Mono':https://fonts.googleapis.com/css2?family=Space+Mono&display=swap"
